@@ -1,0 +1,54 @@
+{"intents": [
+    {"tag": "question1",
+     "patterns": ["What were the top three rated romance movies on Netflix of all time?", "What were the top 3 rated romance movies on Netflix?"],
+     "responses": [],
+     "context_set": ""
+    },
+    {"tag": "question2",
+     "patterns": ["What was the longest top movie on Netflix?", "What was the longest movie on Netflix?"],
+     "responses": [],
+     "context_set": ""
+    },
+    {"tag": "question3",
+     "patterns": ["What was the genre of the top movie in 2001?", "What genre was the top movie in 2001?"],
+     "responses": [],
+     "context_set": ""
+    },
+    {"tag": "question4",
+     "patterns": ["What drama movies have a score greater than or equal to 8?", "What drama movies have a score greater than or equal to eight?", "What drama movies scored greater or equal to 8?"],
+     "responses": [],
+     "context_set": ""
+    },
+    {"tag": "question5",
+     "patterns": ["What movies were mainly produced in GB?", "What movies on were made in GB?", "What movies were produced in GB?", "What movies were produced in Great Britain?", "What movies were made in Great Britain?"],
+     "responses": [],
+     "context_set": ""
+    },
+    {"tag": "question6",
+     "patterns": ["What top shows on Netflix were produced before 2000?", "What shows on Netflix were produced before 2000?", "What shows were made before 2000?"],
+     "responses": [],
+     "context_set": ""
+    },
+    {"tag": "question7",
+     "patterns": ["What was the top show on Netflix 5 years ago?", "What was the top Netflix show 5 years ago?", "What was the top show on Netflix five years ago?", "What was the top Netflix show five years ago?"],
+     "responses": [],
+     "context_set": ""
+    },
+    {"tag": "question8",
+     "patterns": ["What top show on Netflix has the most seasons?", "What show on Netflix has the most seasons?"],
+     "responses": [],
+     "context_set": ""
+    },
+    {"tag": "question9",
+     "patterns": ["What show has received the most votes?", "What show has gotten the most votes?"],
+     "responses": [],
+     "context_set": ""
+    },
+    {"tag": "question10",
+     "patterns": ["What is the top movie on Netflix with the highest score?", "What movie has the highest score?", "What top Netflix movie has the highest score?"],
+     "responses": [],
+     "context_set": ""
+    }
+
+]
+}
